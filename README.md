@@ -6,6 +6,9 @@ OpenVINO is an open-source toolkit for optimizing and deploying deep learning mo
 
 ![openvino](https://user-images.githubusercontent.com/99968233/230010403-05898cdc-7117-4468-a0a7-f52c3c896238.png)
 
+# EAST Detector
+![124375987-6c14ca00-dcc2-11eb-991b-d6b578394419](https://user-images.githubusercontent.com/99968233/230827085-07d32a9f-beeb-47f3-bc6e-a16d295f6989.png)
+
 # TransformerOCR
 A TrOCR consists of encoder and a decoder where a encoder uses a pretrained model such as Vision image Transformer (ViT), BERT image Transformer (BEiT), and Dual Intent and Entity Transformer (DiET) and decoder uses a pretrained models such as BERT, and RoBERTa. This model can be trained in printed, handwritten or scene text dataset. An self attention model is required to overcome vanishing problem in LSTM. An attention model simply predicts the next word in a sequence, thus making OCR more accurate. The model is trained and fine tuned in IAM handwriting dataset.
 
