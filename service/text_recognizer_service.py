@@ -10,7 +10,7 @@ from utils.imutil import word_sequencer, cropper, load_images, empty_folder
 import string
 
 
-# Optical Character Recognition
+# Optical Character Recognition tool
 class TextRecognizerService:
     def __init__(self, save_crop_images_folder=None, model_path=None):
         self.save_crop_images_folder = save_crop_images_folder
